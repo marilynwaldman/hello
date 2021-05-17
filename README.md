@@ -50,6 +50,11 @@ git push origin main
 ```
 
 
+### Additional
+
+https://stackoverflow.com/questions/46878457/adding-git-credentials-on-windows
+
+
 
 
 
