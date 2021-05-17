@@ -2,7 +2,17 @@
 
 ## Create a directory - hello
 
+From the terminal create a directory or from jupyterlab
+
+```
+mkdir hello
+cd hello
+
+```
+
 ## Create a repo on github from the directory hello
+
+### Go to Github and create a repo, then copy and paste instructions
 
 echo "# hello" >> README.md
 git init
