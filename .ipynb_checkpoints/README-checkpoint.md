@@ -26,6 +26,19 @@ git push -u origin main
 
 `sh run.sh`
 
+## push to github
+
+```
+git status
+git add .
+git commit -m "added hello.py and run.sh"
+git push origin main
+
+```
+
+
+
+
 
 
 
