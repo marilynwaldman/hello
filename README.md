@@ -82,7 +82,7 @@ https://docs.anaconda.com/anaconda/install/silent-mode/
 
 ```
 cd
-wget https://repo.anaconda.com/archive/Anaconda3-2021.05-Linux-x86_64.sh -O ~/conda.sh
+wget https://repo.anaconda.com/archive/Anaconda3-2021.05-Linux-x86_64.sh -O conda.sh
 ls -l conda.sh
 bash conda.sh  
 ```
