@@ -79,18 +79,27 @@ https://docs.anaconda.com/anaconda/install/silent-mode/
 
 ```
 wget https://repo.anaconda.com/archive/Anaconda3-2021.05-Linux-x86_64.sh -O ~/conda.sh
-bash ~/miniconda.sh -b -p $HOME/conda
+bash ~/miniconda.sh  $HOME/conda
 ```
 
-```
-bash Anaconda3-2020.02-Linux-x86_64.sh
 
-````
-or 
+You will be prompted to agree to terms and asked where to install. Say 'yes' and 'enter'
 
-```
-sh Anaconda3-2020.02-Linux-x86_64.sh
-```
+Do you accept the license terms? [yes|no]
+[no] >>> 
+Please answer 'yes' or 'no':'
+>>> yes
+
+Anaconda3 will now be installed into this location:
+/home/ubuntu/anaconda3
+
+  - Press ENTER to confirm the location
+  - Press CTRL-C to abort the installation
+  - Or specify a different location below
+
+[/home/ubuntu/anaconda3] >>> 
+PREFIX=/home/ubuntu/anaconda3
+
 Reset the profile
 
 ```
