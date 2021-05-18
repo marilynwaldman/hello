@@ -54,23 +54,24 @@ git push origin main
 
 https://stackoverflow.com/questions/46878457/adding-git-credentials-on-windows
 
+## Do these steps
 
-### Uninstall Ubuntu on Windows 10 - WLS2
+###  1.  Uninstall Ubuntu on Windows 10 - WLS2
 
 How do I uninstall and reinstall Ubuntu WSL?
 To uninstall Ubuntu, right-click the Ubuntu shortcut in your Start menu and click Uninstall.
 
 
-### Install Ubuntu on Windows 10 - WLS2
+### 2.  Install Ubuntu on Windows 10 - WLS2
 
 https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
 
-### Install git and configure github on WLS2 Ubuntu
+### 3.  Install git and configure github on WLS2 Ubuntu
 
 https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-git
 
-### Install Anaconda on WLS2 Ubuntu
+### 4.  Install Anaconda on WLS2 Ubuntu
 
 https://docs.anaconda.com/anaconda/install/linux/
 
