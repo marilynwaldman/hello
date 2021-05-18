@@ -64,6 +64,8 @@ To uninstall Ubuntu, right-click the Ubuntu shortcut in your Start menu and clic
 
 ### 2.  Install Ubuntu on Windows 10 - WLS2
 
+##### Remember your root password
+
 https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
 
