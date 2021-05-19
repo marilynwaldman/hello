@@ -119,6 +119,8 @@ which python
 
 See this:  
 
+https://www.youtube.com/watch?v=euCiOsDC1_k
+
 https://peteoshea.co.uk/setup-git-in-wsl/
 
 https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#adding-your-ssh-key-to-the-ssh-agent
