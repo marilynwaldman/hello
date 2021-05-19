@@ -119,9 +119,14 @@ which python
 
 See this:  
 
+Install git bash
+
+https://www.youtube.com/watch?v=qdwWe9COT9k
+
+SSH KEY - windows
+
 https://www.youtube.com/watch?v=WgZIv5HI44o
 
-https://www.youtube.com/watch?v=euCiOsDC1_k
 
 https://peteoshea.co.uk/setup-git-in-wsl/
 
