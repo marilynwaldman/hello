@@ -123,6 +123,8 @@ Install git bash
 
 https://www.youtube.com/watch?v=qdwWe9COT9k
 
+https://git-scm.com/downloads
+
 SSH KEY - windows
 
 https://www.youtube.com/watch?v=WgZIv5HI44o
@@ -132,10 +134,8 @@ https://peteoshea.co.uk/setup-git-in-wsl/
 
 https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#adding-your-ssh-key-to-the-ssh-agent
 
-Install Git Bash
 
-https://git-scm.com/downloads
-
+https://github.com/desktop/desktop/issues/5454
 
 
 
