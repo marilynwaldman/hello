@@ -119,6 +119,8 @@ which python
 
 See this:  
 
+https://www.youtube.com/watch?v=WgZIv5HI44o
+
 https://www.youtube.com/watch?v=euCiOsDC1_k
 
 https://peteoshea.co.uk/setup-git-in-wsl/
