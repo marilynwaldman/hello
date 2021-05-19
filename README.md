@@ -115,6 +115,15 @@ which python
 ```
 
 
+### Back to git
+
+See this:  
+
+https://peteoshea.co.uk/setup-git-in-wsl/
+
+
+
+
 
 
 
