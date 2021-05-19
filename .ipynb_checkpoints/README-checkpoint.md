@@ -119,7 +119,9 @@ which python
 If you enter “no”, then conda will not modify your shell scripts at all. In order to initialize after the installation process is done, first run source <path to conda>/bin/activate and then run conda init. See FAQ.
 ### Back to git
     
-try to install again to get path to anaconda3    
+try to install again to get path to anaconda3
+    
+  https://docs.anaconda.com/anaconda/install/linux/  
     
 ```
     source <path to conda>/bin/activate
