@@ -114,8 +114,17 @@ which python
 
 ```
 
+### FIX conda
 
+If you enter “no”, then conda will not modify your shell scripts at all. In order to initialize after the installation process is done, first run source <path to conda>/bin/activate and then run conda init. See FAQ.
 ### Back to git
+    
+try to install again to get path to anaconda3    
+    
+```
+    source <path to conda>/bin/activate
+    conda init
+```    
 
 See this:  
 
