@@ -128,6 +128,10 @@ try to install again to get path to anaconda3
     conda init
 ```    
 
+    
+    
+### Install git bash
+        
 See this:  
 
 Install git bash
