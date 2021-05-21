@@ -121,8 +121,7 @@ vi .bash_profile
  
 ```
 
-Enter "o" for open
-Enter echo "Ran bash_profile"
+ "o" for open
 Enter PATH="$HOME/anaconda3/bin:$PATH"
 Hit escape
 ZZ
@@ -139,8 +138,9 @@ try to install again to get path to anaconda3
   https://docs.anaconda.com/anaconda/install/linux/  
     
 ```
-    source <path to conda>/bin/activate
+    source $HOME/anaconda3/bin/activate
     conda init
+
 ```    
 
     
