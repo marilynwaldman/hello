@@ -117,7 +117,7 @@ which python
 ### FIX conda
 
 ```
-vi .bash_profile
+vi .profile
  
 ```
 
