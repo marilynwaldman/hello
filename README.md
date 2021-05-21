@@ -116,8 +116,23 @@ which python
 
 ### FIX conda
 
-If you enter “no”, then conda will not modify your shell scripts at all. In order to initialize after the installation process is done, first run source <path to conda>/bin/activate and then run conda init. See FAQ.
-### Back to git
+```
+vi .bash_profile
+ 
+```
+
+Enter "o" for open
+Enter echo "Ran bash_profile"
+Enter PATH="$HOME/anaconda3/bin:$PATH"
+Hit escape
+ZZ
+
+open and close the terminal
+
+then try 'conda'
+
+
+   
     
 try to install again to get path to anaconda3
     
@@ -129,7 +144,7 @@ try to install again to get path to anaconda3
 ```    
 
     
-    
+### Back to git    
 ### Install git bash
         
 See this:  
