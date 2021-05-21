@@ -121,7 +121,8 @@ vi .profile
  
 ```
 
- "o" for open
+ Shift + G - go to bottom of file
+ o - open
 Enter PATH="$HOME/anaconda3/bin:$PATH"
 Hit escape
 ZZ
