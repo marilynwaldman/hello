@@ -162,6 +162,8 @@ https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-
 
 https://www.youtube.com/watch?v=WgZIv5HI44o
 
+https://www.youtube.com/watch?v=qWKK_PNHnnA
+
 
 https://peteoshea.co.uk/setup-git-in-wsl/
 
