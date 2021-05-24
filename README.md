@@ -139,7 +139,7 @@ try to install again to get path to anaconda3
   https://docs.anaconda.com/anaconda/install/linux/  
     
 ```
-    source $HOME/anaconda3/bin/activate
+    source HOME/anaconda3/bin/activate
     conda init
 
 ```    
@@ -156,17 +156,19 @@ https://www.youtube.com/watch?v=qdwWe9COT9k
 
 https://git-scm.com/downloads
 
-SSH KEY - windows
+#### SSH KEY - windows
+
+https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh
 
 https://www.youtube.com/watch?v=WgZIv5HI44o
 
 
 https://peteoshea.co.uk/setup-git-in-wsl/
 
-https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#adding-your-ssh-key-to-the-ssh-agent
 
+### Windows Development
 
-https://github.com/desktop/desktop/issues/5454
+https://www.youtube.com/watch?v=MrZolfGm8Zk
 
 
 
