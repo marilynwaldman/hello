@@ -170,6 +170,10 @@ https://peteoshea.co.uk/setup-git-in-wsl/
 
 https://www.youtube.com/watch?v=MrZolfGm8Zk
 
+##### Set up WSL2 with VSCODE
+
+https://code.visualstudio.com/blogs/2019/09/03/wsl2
+
 
 
 
