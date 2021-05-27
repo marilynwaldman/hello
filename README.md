@@ -167,6 +167,42 @@ https://www.youtube.com/watch?v=qWKK_PNHnnA
 
 https://peteoshea.co.uk/setup-git-in-wsl/
 
+```
+git config --list --show-origin
+
+```
+Should see something like this:
+
+file:/home/pete/.gitconfig      user.name=Pete O'Shea
+file:/home/pete/.gitconfig      user.email=mail@peteoshea.co.uk
+
+Sharing an existing SSH key between Windows and WSL
+
+Check if you have .ssh directory
+
+```
+ls -a
+
+```
+
+if so, just copy the keys.  Replace user with your linux userid.
+
+```
+cp /mnt/c/Users/user/.ssh/id_rsa* .
+
+```
+Otherwise
+
+```
+ cd ~
+$ mkdir .ssh
+$ chmod 700 .ssh
+$ cd .ssh
+$ cp /mnt/c/Users/user/.ssh/id_rsa* .
+$ chmod 600 id_rsa
+$ chmod 644 id_rsa.pub
+
+```
 
 ### Windows Development
 
