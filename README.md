@@ -195,12 +195,12 @@ Otherwise
 
 ```
  cd ~
-$ mkdir .ssh
-$ chmod 700 .ssh
-$ cd .ssh
-$ cp /mnt/c/Users/user/.ssh/id_rsa* .
-$ chmod 600 id_rsa
-$ chmod 644 id_rsa.pub
+ mkdir .ssh
+ chmod 700 .ssh
+ cd .ssh
+ cp /mnt/c/Users/user/.ssh/id_rsa* .
+ chmod 600 id_rsa
+$chmod 644 id_rsa.pub
 
 ```
 
