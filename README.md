@@ -213,6 +213,22 @@ https://www.youtube.com/watch?v=MrZolfGm8Zk
 https://code.visualstudio.com/blogs/2019/09/03/wsl2
 
 
+### Fix ssh
+
+https://stackoverflow.com/questions/37182847/how-do-i-disable-git-credential-manager-for-windows
+
+
+git config --edit --system
+
+Follow ssh agent instructions here:
+
+https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+
+
+
+
+
 
 
 
