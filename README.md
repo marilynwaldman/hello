@@ -226,6 +226,18 @@ https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-
 
 
 
+git config --edit --global - opens in nano
+
+ git config --global --edit
+This does use the default editor, which seems to default to Nano. If you’ve never used Nano before you may prefer to just edit the file directly with something like Vi:
+
+$ vi ~/.gitconfig
+
+
+https://peteoshea.co.uk/setup-git-in-wsl/
+
+
+
 
 
 
