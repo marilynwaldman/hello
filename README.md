@@ -263,7 +263,7 @@ https://peteoshea.co.uk/setup-git-in-wsl/
 
 
 
-### Set Remote
+### Set Remote and save 
 
 https://www.freecodecamp.org/news/how-to-fix-git-always-asking-for-user-credentials/
 
