@@ -268,6 +268,8 @@ https://peteoshea.co.uk/setup-git-in-wsl/
 https://www.freecodecamp.org/news/how-to-fix-git-always-asking-for-user-credentials/
 
 
+git config --global credential.helper store
+
 
 
 
