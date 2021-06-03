@@ -267,6 +267,10 @@ https://peteoshea.co.uk/setup-git-in-wsl/
 
 https://stackoverflow.com/questions/10909221/why-is-github-asking-for-username-password-when-following-the-instructions-on-sc
 
+```
+ssh -T git@github.com
+```
+
 check Test/.git/configure
 
 https://www.freecodecamp.org/news/how-to-fix-git-always-asking-for-user-credentials/
