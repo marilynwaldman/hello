@@ -273,6 +273,15 @@ ssh -T git@github.com
 
 check Test/.git/configure
 
+
+https://www.tecmint.com/fix-git-user-credentials-for-https/
+
+
+```
+git config --global credential.helper store
+
+```
+
 https://www.freecodecamp.org/news/how-to-fix-git-always-asking-for-user-credentials/
 
 
