@@ -19,5 +19,6 @@ if __name__ == "__main__":
         name = mydog.bark()
         print(name)
         assert name == "Fluffy1"
+        assert name == "Fluffy"
 
 
