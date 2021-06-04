@@ -12,7 +12,12 @@ class Dog:
     # Adds an instance variable 
     def bark(self):
         print('Woof from', self.name)
+        return self.name
 
 if __name__ == "__main__":
         mydog = Dog("Fluffy")
-        mydog.bark()
+        name = mydog.bark()
+        print(name)
+        assert name == "Fluffy1"
+
+
