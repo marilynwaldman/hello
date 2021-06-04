@@ -15,10 +15,11 @@ class Dog:
         return self.name
 
 if __name__ == "__main__":
+        print("I'm called from Dog.py")
         mydog = Dog("Fluffy")
         name = mydog.bark()
         print(name)
-        assert name == "Fluffy1"
+        #assert name == "Fluffy1"
         assert name == "Fluffy"
 
 
